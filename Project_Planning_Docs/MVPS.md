@@ -8,4 +8,9 @@
 
 ## 2. Dashboard
 
-    *
+    * Users should be automatically navigated to their dashboard on successful login
+    * Dashboard should detail an overview of available data of the user's inputs (exact formats TBD)
+    * Dashboard should be customizable to provide the desired experience for each user
+    * On user logout the dashboard should automatically navigate the user to the landing page
+
+
